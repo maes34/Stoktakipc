@@ -4,7 +4,6 @@
 
 
 #### - Login
-Panel login form
 ![alt text](./pics/login.png)
 #### - Select
 ![alt text](./pics/select.png)
