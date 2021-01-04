@@ -47,5 +47,12 @@ namespace TıklaKap
             st.Show();
             this.Hide();
         }
+
+        private void pictureBox6_Click(object sender, EventArgs e)
+        {
+            Customer cs = new Customer();
+            cs.Show();
+            this.Hide();
+        }
     }
 }
