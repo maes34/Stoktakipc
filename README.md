@@ -9,8 +9,8 @@ Panel login form
 #### - Select
 ![alt text](./pics/select.png)
 #### - Category
-![alt text](./pics/category.png)
+![alt text](./pics/category.PNG)
 #### - Products
-![alt text](./pics/products.png)
+![alt text](./pics/products.PNG)
 #### - Stats - Product, Category, City vs.
-![alt text](./pics/stats.png)
+![alt text](./pics/stats.PNG)
