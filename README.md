@@ -1,0 +1,2 @@
+# Stoktakipc
+Stok Takip C#
