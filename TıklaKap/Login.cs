@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace TıklaKap
 {
-    public partial class Login : Form
+    public partial class Login : BaseForm
     {
         public Login()
         {
@@ -36,6 +36,11 @@ namespace TıklaKap
             {
                 MessageBox.Show("Kullanıcı Adı veya Şifre Hatalı!!!", "Hata", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
+        }
+
+        private void Login_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

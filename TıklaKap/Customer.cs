@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace TıklaKap
 {
-    public partial class Customer : Form
+    public partial class Customer : BaseForm
     {
         DbEntityUrunEntities db = new DbEntityUrunEntities();
         void list()

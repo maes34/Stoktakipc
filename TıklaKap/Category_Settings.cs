@@ -11,7 +11,7 @@ using System.Windows.Forms;
 
 namespace TıklaKap
 {
-    public partial class Category_Settings : Form
+    public partial class Category_Settings : BaseForm
     {
         public Category_Settings()
         {

@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace TıklaKap
 {
-    public partial class Product_Settings : Form
+    public partial class Product_Settings : BaseForm
     {
         public Product_Settings()
         {
@@ -152,6 +152,10 @@ namespace TıklaKap
             stat.Show();
             this.Hide();
         }
-        
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

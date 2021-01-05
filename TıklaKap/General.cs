@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace TıklaKap
 {
-    public partial class General : Form
+    public partial class General : BaseForm
     {
         public General()
         {
